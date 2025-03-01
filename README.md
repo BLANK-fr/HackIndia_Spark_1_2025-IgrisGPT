@@ -1,8 +1,14 @@
 **PERSONALIZED AI TUTOR**
+
 A Personalized AI Tutor designed for board exam students, using a small language model (SLM) to provide subject-specific learning, Q&A assistance, and exam preparation. This project runs efficiently on local hardware with PyTorch, Gradio, HTML/CSS, and Python.
 
 **FEATURES**
-✅ Subject-Specific AI Tutors – Physics, Chemistry.✅ Q&A System – Ask doubts and get instant AI-powered responses.✅ Exam Preparation Mode – Generates mock tests, key concepts, and summaries.✅ Chat History Storage – Saves interactions for reference.✅ Offline Execution – Runs efficiently on local GPUs
+
+✅ Subject-Specific AI Tutors – Physics, Chemistry.
+✅ Q&A System – Ask doubts and get instant AI-powered responses.
+✅ Exam Preparation Mode – Generates mock tests, key concepts, and summaries.
+✅ Chat History Storage – Saves interactions for reference.
+✅ Offline Execution – Runs efficiently on local GPUs
 
 **TECH STACK**
 PyTorch – Model inference and fine-tuning.
