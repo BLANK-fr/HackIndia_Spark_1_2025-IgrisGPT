@@ -1,5 +1,5 @@
-#PERSONALIZED AI TUTOR
-
+**PERSONALIZED AI TUTOR
+**
 A Personalized AI Tutor designed for board exam students, using a small language model (SLM) to provide subject-specific learning, Q&A assistance, and exam preparation. This project runs efficiently on local hardware with PyTorch, Gradio, HTML/CSS, and Python.
 
 #FEATURES
@@ -17,6 +17,7 @@ Python – Backend logic and API integration.
 HTML/CSS – Frontend customization.Usage
 
 #USAGE
+
 Open the Gradio UI in your browser.
 
 Select a subject-specific AI tutor.
@@ -25,8 +26,8 @@ Ask questions or generate study material.
 
 Save responses for later review.
 
-#Future Enhancements
-
+**#Future Enhancements
+**
 Voice-based interaction using TTS & ASR.
 
 Handwritten answer recognition with OCR.
